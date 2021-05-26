@@ -1,3 +1,3 @@
 <?php
-    echo '<script language="javascript">alert("hola");</script>';
+    echo '<script language="javascript">alert("HOLA MUNDO");</script>';
 ?>
